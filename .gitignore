@@ -1,0 +1,16 @@
+# Python:
+dist/
+.idea/
+
+#Self defined:
+CRCDropper3.exe
+Hex2Mot.7z
+Hex2MotOneStep.7z
+Hex2mot/
+ "RAS2048.exe - \345\277\253\346\215\267\346\226\271\345\274\217.lnk"
+RSA2048Software/
+"WinHex64.exe - \345\277\253\346\215\267\346\226\271\345\274\217.lnk"
+"main.exe - \345\277\253\346\215\267\346\226\271\345\274\217.lnk"
+
+
+
